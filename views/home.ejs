@@ -1,0 +1,22 @@
+
+<%- include('partials/header'); -%>
+<h1>Home</h1>
+
+<%
+ content.forEach(myfunc)
+ 
+ function myfunc(item){ 
+    const url="/posts/"+item.title
+    console.log(url)
+   %>
+ <h1><%=item.title%></h1>
+ <p><%=item.post.slice(0,300).concat('...')%></p>
+ <a href="/posts/<%=item.title%>" >Read more</a>
+
+ <%}
+
+%>
+
+
+<%- include('partials/footer'); -%>
+
