@@ -1,7 +1,7 @@
 
 # Blogging Web App
 
-It is a web based application. 
+It is a web based blogging application. 
 Built using nodejs and express framework and uses mongodb for data persistance.
 
 
