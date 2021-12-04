@@ -7,5 +7,5 @@ Built using nodejs and express framework and uses mongodb for data persistance.
 
 ## Screenshots
 
-![Home Page](homepage/todo.png)
-![Expanded Blog](homepage/todo.png)
+![Home Page](images/homepage)
+![Expanded Blog](images/expandedBlog)
