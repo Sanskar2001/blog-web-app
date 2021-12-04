@@ -8,6 +8,6 @@ Built using nodejs and express framework and uses mongodb for data persistance.
 ## Screenshots
 
 
-![App Screenshot](images/homepage)
+![App Screenshot](images/homepage.png)
 
-![App Screenshot](images/expandedBlog)
+![App Screenshot](images/expandedBlog.png)
